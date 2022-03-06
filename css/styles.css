@@ -134,6 +134,7 @@ section {
 	.navbar__menu li {
 		display: block;
 		text-align: center;
+                width: 100%;
 	}
 }
 
